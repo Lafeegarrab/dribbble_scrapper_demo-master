@@ -43,6 +43,13 @@ a:hover {
   font-weight: lighter;
   text-align: center;
 }
+
+#boxe {
+
+  text-align: center;
+}
+
+
 #footer{
   padding: 30px;
   background: rgb(30, 30, 30);
